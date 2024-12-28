@@ -1,0 +1,22 @@
+{
+  "name": "ci_staging_github_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingyeung129/ci-cd-github-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingyeung129/ci-cd-github-actions/issues"
+  },
+  "homepage": "https://github.com/Kingyeung129/ci-cd-github-actions#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
